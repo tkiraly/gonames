@@ -14,10 +14,12 @@ gonames aims to be the one source of truth of naming things in [Go](https://gola
 
 ### Bad names
 
+<!-- markdownlint-disable MD033 -->
 - utility [<sup>1</sup>][1]
 - common [<sup>1</sup>][1]
 - base [<sup>1</sup>][1]
 - helper [<sup>1</sup>][1]
+<!-- markdownlint-enable MD033 -->
 
 ## References
 
